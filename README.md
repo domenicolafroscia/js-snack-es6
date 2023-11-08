@@ -28,3 +28,9 @@ const newArray = getSubArray(numbersArray, 1, 3) ---> [14, 6, 8]
 2. Con il destructuring prendere dall'array la bici con minor peso
 3. Stampare il nome della bici con minor peso
 
+**Snack 2**
+1. Creare un array di oggetti dove ogni oggetto descrive nome, punti fatti e falli subiti di una squadra di calcio
+2. L'unica proprietà da compilare è il nome, i punti e i falli vanno settati a 0
+3. Creare una funzione di numeri random e inserirli al posto degli 0 nelle proprietà dei punti e dei falli
+4. Creare un nuovo array con la destrutturazione dove però all'interno vanno inseriti solo nomi e falli subiti.
+5. Stampare in console il tutto
